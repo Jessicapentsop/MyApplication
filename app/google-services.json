@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "43162585369",
+    "firebase_url": "https://fir-42176.firebaseio.com",
+    "project_id": "fir-42176",
+    "storage_bucket": "fir-42176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43162585369:android:916de04938802095",
+        "android_client_info": {
+          "package_name": "com.example.opilane.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43162585369-c1po349f2cq81lug45qga8m8419dl8qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2_mvWwHkL-LcYYVpMmieUJK2mIcBA4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
